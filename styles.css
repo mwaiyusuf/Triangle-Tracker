@@ -1,11 +1,12 @@
 body{
-  text-align: center;
+  /* text-align: center; */
   background-color: #B2EBF2;
 }
 H1{
   font-family: 'Shadows Into Light', cursive;
   font-family: 'Felipa', cursive;
   font-family: 'Lobster', cursive;
+  text-align: center;
 }
 p{
   font-size: 20px;
@@ -19,8 +20,18 @@ background-color: green;
 input{
   height: 30px;
 }
+.form{
+  float: left;
+  margin-left: 60px;
+}
+
 button{
-  width: 8%;
-  height: 50px;
-  font-size: 20px;
+  padding: 15px;
+  margin-left: 20px;
+  /* width: 8%; */
+  /* height: 50px;
+  font-size: 20px; */
+}
+#reset:hover{
+  background-color: orange;
 }
