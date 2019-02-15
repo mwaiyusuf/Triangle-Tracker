@@ -3,7 +3,7 @@
 #### Personal profile, February 9th 2019
 #### By **Mohammed Mwai**
 ## Description
-THis is a website representing my portfolio. It show cases my resume, achievements,interests and my expertise in the field of programming.The project has been built using HTML,js and styled using CSS.   
+THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.   
 ## Setup/Installation Requirements
 * 1.Have a functional github account
 * 2.On my github profile ,select-my-portfolio
