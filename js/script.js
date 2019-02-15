@@ -11,9 +11,10 @@ if(sideQ+sideR>sideS || sideR+sideS>sideQ || sideQ+sideS>sideR){
   if(sideQ==sideR && sideR==sideS){
     .innerHTML('this is an equilateral');
   }
-  // else if(sideQ!=sideR || sideR!=sideS){
-  //   .innerHTML('this is a scalene');
-  // }
+  /*if its not an equalateral to check for another type */
+  else if(sideQ!=sideR || sideR!=sideS){
+    .innerHTML('this is a scalene');
+  }
 //   else{
 //     .innerHTML('this is a isosceles');
 //   }
