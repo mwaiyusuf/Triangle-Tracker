@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-color: #B2EBF2;
+}
+H1{
+  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Felipa', cursive;
+  font-family: 'Lobster', cursive;
+}
+p{
+  font-size: 20px;
+  margin-top: 60px;
+  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Felipa', cursive;
+}
+button:hover{
+background-color: green;
+}
+button{
+  width: 8%;
+  height: 50px;
+  font-size: 20px;
+}
