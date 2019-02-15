@@ -19,13 +19,14 @@ if(sideQ+sideR>sideS || sideR+sideS>sideQ || sideQ+sideS>sideR){
   else{
     .innerHTML('this is a isosceles');
   }
-// }
-// else if(sideQ==isNaN || sideR==isNaN || sideS==isNaN){
-//   .innerHTML('Enter a number');
-// }
-// else{
-//   .innerHTML('This is not a triangle');
-// }
-//
-// }
-// triangleTracker();
+}
+/*if someone inputs something that is not a number to out this*/
+else if(sideQ==isNaN || sideR==isNaN || sideS==isNaN){
+  .innerHTML('Enter a number');
+}
+else{
+  .innerHTML('This is not a triangle');
+}
+
+}
+triangleTracker();
