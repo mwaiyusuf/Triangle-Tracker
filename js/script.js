@@ -9,7 +9,7 @@ function triangleTracker() {
   if (sideQ + sideR > sideS && sideR + sideS > sideQ && sideQ + sideS > sideR) {
 
     /*if it is a triangle,now to check type of the triangle*/
-    if (sideQ == sideR && sideR == sideS) {
+    else if (sideQ == sideR && sideR == sideS) {
       document.getElementbyId('response').innerHTML = 'this is an equilateral';
     }
     /*if its not an equalateral to check for another type */
@@ -17,7 +17,7 @@ function triangleTracker() {
       alert('this is a scalene');
     }
     /*last condition for a triangle*/
-    else {
+    else if {
       alert('this is a isosceles');
     }
   }
