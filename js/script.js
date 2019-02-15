@@ -15,9 +15,10 @@ if(sideQ+sideR>sideS || sideR+sideS>sideQ || sideQ+sideS>sideR){
   else if(sideQ!=sideR || sideR!=sideS){
     .innerHTML('this is a scalene');
   }
-//   else{
-//     .innerHTML('this is a isosceles');
-//   }
+  /*last condition for a triangle*/
+  else{
+    .innerHTML('this is a isosceles');
+  }
 // }
 // else if(sideQ==isNaN || sideR==isNaN || sideS==isNaN){
 //   .innerHTML('Enter a number');
