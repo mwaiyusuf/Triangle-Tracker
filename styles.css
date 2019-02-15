@@ -16,6 +16,9 @@ p{
 button:hover{
 background-color: green;
 }
+input{
+  height: 30px;
+}
 button{
   width: 8%;
   height: 50px;
