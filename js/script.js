@@ -7,6 +7,7 @@ var sides=parseInt(document.getElementbyId('s'));
 var triangle=["Equalateral", "isosceles", "scalene"];
 /*the major condition for a triangle to be constructed*/
 if(sideQ+sideR>sideS || sideR+sideS>sideQ || sideQ+sideS>sideR){
+  /*if it is a triangle,now to check type of the triangle*/
   if(sideQ==sideR && sideR==sideS){
     .innerHTML('this is an equilateral');
   }
