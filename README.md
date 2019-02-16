@@ -1,6 +1,6 @@
 
-# My Portfolio
-#### Personal profile, February 9th 2019
+# TRIANGLE TRACKER
+#### TRIANGLE TRACKER, February 16th 2019
 #### By **Mohammed Mwai**
 ## Description
 THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.
