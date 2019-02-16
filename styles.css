@@ -3,11 +3,23 @@ body{
   background-color: #B2EBF2;
 }
 H1{
-  font-family: 'Shadows Into Light', cursive;
   font-family: 'Felipa', cursive;
-  font-family: 'Lobster', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Fjalla One', sans-serif;
   text-align: center;
   font-size: 50px;
+}
+#tria{
+  margin-top: 0;
+  font-family: 'Felipa', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Shadows Into Light', cursive;
+}
+#response{
+  border: 3px solid black;
+  border-radius: 50px;
 }
 p{
   font-size: 20px;
