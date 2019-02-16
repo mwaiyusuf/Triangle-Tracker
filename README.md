@@ -8,6 +8,9 @@ THis is a website that determines if the measurements given can construct a tria
 | Behavior       | Input     | output|
 | :-------------: | :-------------: | :-------------: |
 | The site determines whether the inputted values can construct a triangle and moreover which type of a triangle.   | The user inputs different values in the forms.Clicks the 'calculate' button and it executes.  | It tells if the value construct a triangle and which type of triangle. |
+| If three sides are equal then its called an equilateral. | Three inputs should have same values | equilateral |
+| If none of the sides are equal. | Three sides,different values | Scalene. |
+ | If two sides are equal | two inputs have the same value | Isosceles |
 ## Setup/Installation Requirements
 * 1.Have a functional github account
 * 2.On my github profile ,select-my-portfolio
