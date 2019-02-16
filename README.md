@@ -3,7 +3,11 @@
 #### Personal profile, February 9th 2019
 #### By **Mohammed Mwai**
 ## Description
-THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.   
+THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.
+##BDB
+| Behavior                                                            | input:                                                    |
+| :-------------------------------------------------------------------| :---------------------------------------------------------|
+| The site determines if the given values can construct a triangle.   | Three input forms,to insert a number in each of the inputs|  
 ## Setup/Installation Requirements
 * 1.Have a functional github account
 * 2.On my github profile ,select-my-portfolio
