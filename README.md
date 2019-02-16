@@ -4,10 +4,10 @@
 #### By **Mohammed Mwai**
 ## Description
 THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.
-##BDB
+## BDD
 | Behavior       | Input     | output|
 | :-------------: | :-------------: | :-------------: |
-| The site determines whether the inputted values can construct a triangle and moreover which type of a triangle.   | The user inputs different values in the forms.Clicks the 'calculate' button and it executes.  | It tells if the value construct a triangle and which type of triangle. | 
+| The site determines whether the inputted values can construct a triangle and moreover which type of a triangle.   | The user inputs different values in the forms.Clicks the 'calculate' button and it executes.  | It tells if the value construct a triangle and which type of triangle. |
 ## Setup/Installation Requirements
 * 1.Have a functional github account
 * 2.On my github profile ,select-my-portfolio
