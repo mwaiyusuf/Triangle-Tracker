@@ -3,8 +3,8 @@
 #### TRIANGLE TRACKER, February 16th 2019
 #### By **Mohammed Mwai**
 ## Description
-THis is a website that determines if the measurements given can construct a triangle.The project has been built using HTML,js and styled using CSS.
-## BDD
+THis is a website that determines if the measurements given can construct a triangle and which type of triangle.The project has been built using HTML,js and styled using CSS.
+## BEHAVIOR DRIVEN DEVELOPMENT
 | Behavior       | Input     | output|
 | :-------------: | :-------------: | :-------------: |
 | The site determines whether the inputted values can construct a triangle and moreover which type of a triangle.   | The user inputs different values in the forms.Clicks the 'calculate' button and it executes.  | It tells if the value construct a triangle and which type of triangle. |
@@ -17,8 +17,7 @@ THis is a website that determines if the measurements given can construct a tria
 * 3.fork the repository
 * 4.Access it on your github account
 ## Known Bugs
-The website is currently non-responsive. In light of this setback I am working to  fix this error.
-incase you encounter other bugs please reach out via the email-mwaigalo5@gmail.com.
+No errors at the moment.incase you encounter other bugs please reach out via the email-mwaigalo5@gmail.com.
 ## Technologies Used0
 * CSS
 * HTML
@@ -35,5 +34,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Support and contact details
-For any inquiries or contributions please contact me on gmail mwaigalo5@gmail.com
+For any inquiries or contributions please contact me on gmail mwaigalo5@gmail.com / tel : +254799315832
  licensing.
