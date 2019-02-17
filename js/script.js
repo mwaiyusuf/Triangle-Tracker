@@ -17,11 +17,11 @@ if (tri[0] + tri[1] > tri[2] && tri[1] + tri[2] > tri[0] && tri[0] + tri[2] > tr
     /*if its not an equalateral to check for another type */
     else if (tri[0] != tri[1] && tri[1] != tri[2] && tri[0] != tri[2]) {
 
-      inform.innerHTML = "<h1>this is an scalene triangle</h1> <p>This triangle have diferent lengths on its sides(noncongruent).Its angles add up to 180 degrees.The lognest side of the triangle is the opposite the largets angle.The shortest side of the triangle is opposite the smallest angle.A right triangle can be a scalene triangle.A vertex of a scalene is the point where two lines meet and form a corner,every scalene has three vertices.Any side of a scalene triangle can be base.A scalene doesnt have a lin eof symmetry</p>"
+      inform.innerHTML = "<h1>this is a scalene triangle</h1> <p>This triangle have diferent lengths on its sides(noncongruent).Its angles add up to 180 degrees.The lognest side of the triangle is the opposite the largets angle.The shortest side of the triangle is opposite the smallest angle.A right triangle can be a scalene triangle.A vertex of a scalene is the point where two lines meet and form a corner,every scalene has three vertices.Any side of a scalene triangle can be base.A scalene doesnt have a lin eof symmetry</p>"
      }
     /*last condition for a triangle*/
     else  {
-     inform.innerHTML = "<h1>this is isosceles triangle</h1> <p>It two sides  and two angles are congruent.The vertex angle is always opposite the base.</p>"
+     inform.innerHTML = "<h1>this is  an isosceles triangle</h1> <p>The  two sides  and two angles are congruent.The vertex angle is always opposite the base.</p>"
      }
 }
   /*if someone inputs something that is not a number to output this*/
